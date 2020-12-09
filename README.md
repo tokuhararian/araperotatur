@@ -1,8 +1,6 @@
 Arabic/Cyrillic/Latin extended characters input panel
 ====
-
-##Description
 Creating character input panels for multilingual catalogers.
 
-##Licence
-
+## Demo
+https://tokuhararian.github.io/araperotatur/
