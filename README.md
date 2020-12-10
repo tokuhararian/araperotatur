@@ -19,11 +19,11 @@ http://tbias.jp
 ## Usage　ローカル環境での使い方（素人向け）
 リポジトリから、
 
-*arabicchar.html
-*cyrillic.html
-*index.html
-*latinextended.html
-*special_characters_input.js  
+*arabicchar.html  
+*cyrillic.html  
+*index.html  
+*latinextended.html  
+*special_characters_input.js    
 
 の５つをダウンロードして、同じディレクトリ（フォルダ）内に置いてください。
 
