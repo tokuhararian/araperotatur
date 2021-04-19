@@ -11,7 +11,7 @@ The character set is designed for cataloging in NACSIS-CAT (based on ALA-LC Roma
 NACSIS-CATへの登録（ALA-LC Romanization Tables準拠）を念頭においた文字セットになっています。LC(USMARC)でアインの翻字に用いられている" ʻ "(U+02BB)は、NACSIS-CATでは" ʿ "（U+02BC)になります。
 
 ## Demo　動作デモ
-https://tokuhararian.github.io/inputpanels/
+https://tokuhararian.github.io/araperotatur/
 
 Previous version (Arabic and Latin extended) also available at TBIAS website.
 http://tbias.jp
